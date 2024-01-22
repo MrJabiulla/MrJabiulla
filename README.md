@@ -17,7 +17,4 @@ Skills: Dart / Flutter / Provider / Firebase
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Jabiulla&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ismail-Jabiulla)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ismail-Jabiulla)  
-
