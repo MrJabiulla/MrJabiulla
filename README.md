@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ismail Jabiulla</h1>
+<h1 align="left">Hi 👋, I'm Ismail Jabiulla</h1>
+
 <h3 align="center">In my role as a Flutter developer, I excel in crafting high-quality cross-platform mobile applications. I adeptly utilize the Provider package for robust state management, guaranteeing a smooth user experience. By seamlessly integrating Firebase services, I enable real-time data storage, secure authentication, and efficient backend operations. This results in the development of scalable, responsive applications—all achieved with a unified codebase using Dart and the Flutter framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjabiulla&label=Profile%20views&color=0e75b6&style=flat" alt="mrjabiulla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjabiulla" alt="mrjabiulla" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color: white;">
