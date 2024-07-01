@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Ismail Jabiulla</h1>
+<h1 align="left">Assalamu'alaikum</h1>
+<h3 align="left">Hi, I'm Ismail Jabiulla</h3>
 
 <h6 align="left">In my role as a Flutter developer, I excel in crafting high-quality cross-platform mobile applications. I adeptly utilize the Provider package for robust state management, guaranteeing a smooth user experience. By seamlessly integrating Firebase services, I enable real-time data storage, secure authentication, and efficient backend operations. This results in the development of scalable, responsive applications—all achieved with a unified codebase using Dart and the Flutter framework.</h6>
 
