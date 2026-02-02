@@ -1,7 +1,7 @@
 <h1 align="left">Assalamu'alaikum 👋</h1>
 <h3 align="left">Hi, I'm Ismail Jabiulla</h3>
 
-<h4 align="left">🚀 Software Engineer (Mobile Applications) | Flutter Enthusiast | Firebase Wizard</h4>
+<h4 align="left">Software Engineer (Mobile) | Flutter | Firebase | Supabase</h4>
 
 <p align="left">
   I build scalable, high-performance mobile apps with Flutter, focusing on clean architecture and maintainable code. I enjoy turning real business needs into smooth, user-friendly experiences.
