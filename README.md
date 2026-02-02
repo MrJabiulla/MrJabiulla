@@ -4,7 +4,11 @@
 <h4 align="left">🚀 Software Engineer (Mobile Applications) | Flutter Enthusiast | Firebase Wizard</h4>
 
 <p align="left">
-  As a dedicated Software Engineer at a tech company, I specialize in building robust, high-performing cross-platform mobile applications using Flutter. I excel in architecting scalable solutions with Clean Architecture and MVVM, and I’m experienced with various state management approaches including Provider, Riverpod, BLoC, and GetX. My focus is on crafting elegant, responsive UIs, optimizing app performance, and transforming business concepts into real-world mobile products with seamless user experiences powered by Firebase and REST APIs.
+  I build scalable, high-performance mobile apps with Flutter, focusing on clean architecture and maintainable code. I enjoy turning real business needs into smooth, user-friendly experiences.
+
+I’ve worked with Provider, Riverpod, BLoC, and GetX, and integrated apps with Firebase, Supabase, and REST APIs to ship production-ready solutions.
+
+I care about clean UI, solid performance, and writing code that’s easy to grow and maintain.
 </p>
 
 ---
