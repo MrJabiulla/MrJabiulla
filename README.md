@@ -1,105 +1,89 @@
-<h1 align="left">Assalamu'alaikum 👋</h1>
-<h3 align="left">Hi, I'm Ismail Jabiulla</h3>
+<h1 align="center">Hi, I'm Ismail Jabiulla</h1>
 
-<h4 align="left">Software Engineer (Mobile) | Flutter | Firebase | Supabase</h4>
+<h3 align="center">Software Engineer · Mobile Application</h3>
 
-<p align="left">
-  I build scalable, high-performance mobile apps with Flutter, focusing on clean architecture and maintainable code. I enjoy turning real business needs into smooth, user-friendly experiences.
-
-I’ve worked with Provider, Riverpod, BLoC, and GetX, and integrated apps with Firebase, Supabase, and REST APIs to ship production-ready solutions.
-
-I care about clean UI, solid performance, and writing code that’s easy to grow and maintain.
-</p>
-
----
-
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mr-jabiulla/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/mrjabiulla34" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/mrjabiulla34" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mrjabiulla&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack</h3>
-<p align="left">
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Supabase -->
-  <a href="https://supabase.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Socket.IO -->
-  <a href="https://socket.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Stripe -->
-  <a href="https://stripe.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Google Sign-In -->
-  <a href="https://developers.google.com/identity" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1920px-Google_2015_logo.svg.png" alt="Google Sign-In" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Apple Sign-In -->
-  <a href="https://developer.apple.com/sign-in-with-apple/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Sign-In" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+## 👨‍💻 About Me
 
+I build **scalable, high-performance mobile apps** with Flutter, focusing on clean architecture and maintainable code. I enjoy turning real business needs into smooth, user-friendly experiences.
+
+- 🔭 Experienced with **Provider**, **Riverpod**, **BLoC**, and **GetX**
+- 🔌 Integrated apps with **Firebase**, **Supabase**, **GraphGL** and **REST APIs**
+- 💳 Payment integrations — **Stripe**, **Surjopay**, **Flutterwave**
+- 📡 Real-time features via **Socket.IO** and **Method Channel**
+- 🎯 Care about **clean UI**, **solid performance**, and **code that scales**
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrjabiulla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjabiulla&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+### 📱 Mobile & Core
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrjabiulla&" alt="Streak Stats" /></p>
+### ☁️ Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 💳 Payments & Auth
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Auth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple_Auth-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🔧 Tools & IDEs
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📋 Collaboration & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjabiulla&label=Profile%20views&color=0e75b6&style=flat" alt="mrjabiulla" /> </p>
+## 🚀 Expertise & Highlights
+
+| Area | Details |
+|------|---------|
+| 🏗️ State Management | BLoC · Riverpod · Provider · GetX |
+| ☁️ Backend Integration | Firebase · Supabase · REST APIs |
+| 📡 Real-time | Socket.IO · Background Music Control · Method Channel |
+| 💳 Payments | Stripe · Surjopay · Flutterwave |
+| 🔐 Auth | Google Sign-In · Apple Sign-In · Firebase Auth |
+| 📣 Events | Facebook Events Integration |
+| 📦 Deployment | App Store · Google Play Store |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrjabiulla&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrjabiulla&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrjabiulla&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."</i>
+</p>
