@@ -5,17 +5,18 @@
 </h3>
 
 <p align="center">
-  Flutter · Dart · Android · iOS
+  Flutter · Dart · Android · iOS · Swift · SwiftUI
 </p>
+
+
 
 <p align="center">
-  I build scalable, high-performance mobile applications using clean architecture,
-  modern state management, and maintainable code.
+  Clean Architecture, scalable state management, and high-performance mobile applications.
   <br>
-  Focused on smooth user experiences, reliable performance, and production-ready solutions.
+  Building production-ready apps with Flutter, Swift, and SwiftUI.
+  <br>
+  Experienced with Firebase, Supabase, GraphQL, REST APIs, payment gateways, and real-time features.
 </p>
-
-<br>
 
 <p align="center">
   <img
