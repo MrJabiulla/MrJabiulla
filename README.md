@@ -20,10 +20,9 @@
 <br>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=mrjabiulla&theme=dark&hide_border=true&v=2"
-    alt="GitHub Streak"
-  />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mrjabiulla&theme=dark&hide_border=true)
+
 </p>
 
 <br>
