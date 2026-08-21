@@ -5,26 +5,28 @@
 </h3>
 
 <p align="center">
-  Flutter · Dart · Android · iOS · Swift · SwiftUI
+  Android | iOS 
 </p>
-
-
 
 <p align="center">
-  Clean Architecture, scalable state management, and high-performance mobile applications.
-  <br>
-  Building production-ready apps with Flutter, Swift, and SwiftUI.
-  <br>
-  Experienced with Firebase, Supabase, GraphQL, REST APIs, payment gateways, and real-time features.
+   Dart · Flutter · Swift · SwiftUI
 </p>
+<br>
+
+<p align="center">
+  I build mobile products, not just features. I start by understanding user needs and business goals, then design clean, scalable architecture. Performance and UX are priorities from day one, not afterthoughts. I work across Flutter, Swift, and SwiftUI to turn ideas into fast, reliable apps published on AppStore, PlayStore, and AppGallery.
+</p>
+
+<br>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mrjabiulla&theme=dark&hide_border=true&v=2"
+    src="https://streak-stats.demolab.com/?user=mrjabiulla&theme=dark&hide_border=true&v=2"
     alt="GitHub Streak"
   />
 </p>
 
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/mr-jabiulla/">LinkedIn</a>
   &nbsp;·&nbsp;
@@ -32,3 +34,5 @@
   &nbsp;·&nbsp;
   <a href="https://mrjabiulla.me">Portfolio</a>
 </p>
+
+
